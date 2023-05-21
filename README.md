@@ -1,3 +1,8 @@
+# Security  
+Extension hash sums after compilation:  
+md5: 5eba3091f77e7d5fc98983b74f92095b  cookie_quick_manager-0.5rc2.zip
+sha256: aaa0c0ee25d8a4121ce0f63bb9e1a27f1e8db922a1d5cc2c00f985f0d1436770  cookie_quick_manager-0.5rc2.zip
+
 # Overview
 Original Creator: https://github.com/ysard   
 Cookie Quick Manager: A complete manager for cookies accumulated during browsing.
